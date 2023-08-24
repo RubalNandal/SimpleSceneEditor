@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa70d7404b2ca594aa209aa8e49fb24f, type: 3}
+  m_Name: SpawnableObjects
+  m_EditorClassIdentifier: 
+  spawnables:
+  - id: 0
+    spawnableName: Cube
+    prefeb: {fileID: 8458983013104069197, guid: 474ae0dc2e377e64c91e2c32214bfae6,
+      type: 3}
+  - id: 1
+    spawnableName: Sphere
+    prefeb: {fileID: 2327366430700079133, guid: c0ae8c25cc659e04bae2aa51709708dc,
+      type: 3}
+  - id: 1
+    spawnableName: Capsule
+    prefeb: {fileID: 1501433238274341008, guid: 229f82283a3f55944acd269d4df628f1,
+      type: 3}

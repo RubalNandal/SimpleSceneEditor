@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b42301e8721b2284c97d4ae939e91e0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - commandHandler: {fileID: 11400000, guid: a4091707f7f85b940a57d6a05329430e, type: 2}
+  - spawnEvent: {fileID: 11400000, guid: 4b5de798d27b1c94dafecbc425ef357d, type: 2}
+  - selectEvent: {fileID: 11400000, guid: 86b4d84cb9acd3b4aa1a6e010dcaf335, type: 2}
+  - moveEvent: {fileID: 11400000, guid: dad15ca5eae8bf64daa3fd6cfc7dd3fd, type: 2}
+  - spawnableObjects: {fileID: 11400000, guid: 0cdd5f279035fbf45a587ddb2d1e42d6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
